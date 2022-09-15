@@ -1,6 +1,6 @@
-# Portfolio
-My Portfolio
+#Ahmet Emre Kurt
+Gebze Technical University,CE   Full time software student
 
-<p>
-  
-</p>
+![Twitter]()
+![Medium]()
+![Spotify]()
