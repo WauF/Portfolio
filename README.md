@@ -1,4 +1,4 @@
-#Ahmet Emre Kurt
+##Ahmet Emre Kurt
 Gebze Technical University,CE   Full time software student
 
 <a href="https://twitter.com/AhmetEmreKurt4"> <img src="https://github.com/WauF/Portfolio/blob/main/portfolio%20images/Twitter-logo.svg.png" alt="Twitter" height=50 width=50 />  </a>
