@@ -8,3 +8,6 @@ Gebze Technical University,CE   Full time software student <br>
 ## MY PROJECTS
 Coming Soon...
 
+## Certificates
+FreeCodeCamp ResponsiveWebDesign (in progress)
+
