@@ -1,7 +1,7 @@
 # Ahmet Emre Kurt
 Gebze Technical University,CE <br> Full time software student <br>
 
-![https://twitter.com/AhmetEmreKurt4](/portfolioimg/Twitter-logo.svg.png)
+![https://twitter.com/AhmetEmreKurt4](/portfolioimg/Twitter-logo.svg.png =50x50)
 [mylink](http://example.com)
 [mylink](http://example.com)
 [mylink](http://example.com)
